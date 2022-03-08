@@ -1,0 +1,22 @@
+IcedID | 09.02.2022 | Campaign 1865677378
+
+***************************************
+
+.iso 46762D829DCF95B5E3FA760A449723B56719E949873EB179EB9013CAF124C80E
+.lnk 908B64B1971A979C7E3E8CE4621945CBA84854CB98D76367B791A6E22B5F6D53
+.ps1 C3E824BE0D8AF22E8C3FB13004315FD432EBB2C3122054FA3E7F6834B4CCFCBC
+.dll b8d794f6449669ff2d11bc635490d9efdd1f4e92fcb3be5cdb4b40e4470c0982
+
+***************************************
+
+Exec >> .iso > .link > .ps1 > .dll 
+
+
+powershell.exe -exec bypass -w Hidden -file \x.ps1
+
+Start-Process "\cXsspRsw.png"
+
+Start-Process "regsvr32.exe" -ArgumentList "/s \GLdh1CKp.dll"
+
+c2'
+http://golinisye.top/
