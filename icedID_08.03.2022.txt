@@ -9,7 +9,7 @@ IcedID | 08.03.2022 | Campaign 1865677378
 
 ***************************************
 
-Exec >> .iso > .link > .ps1 > .dll 
+Exec >> .iso > .lnk > .ps1 > .dll 
 
 
 powershell.exe -exec bypass -w Hidden -file \x.ps1
