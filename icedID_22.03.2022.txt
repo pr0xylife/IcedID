@@ -14,6 +14,7 @@ Exec >> .doc > .dll
 WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\request.docm
 
 http://documentseu.top/kdv/FzxkjAN7rH2wzjPOcJ9iIa81gr2-znNH9wfxw14Q/
+http://documentseu.top/kdv/khxOqk77P1SsQQIgOJc07dm-FoL9L0eZKwyaYc3p/
 
 C:\Windows\splwow64.exe 12288
 
