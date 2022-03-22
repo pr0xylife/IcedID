@@ -1,0 +1,27 @@
+IcedID | 22.03.2022 | Campaign 1865677378
+
+***************************************
+
+.doc 0f3ea635c48dba38f3602aa302e2581fef545372e81a5e372d68ca709f2db7f9
+.dll 908B64B1971A979C7E3E8CE4621945CBA84854CB98D76367B791A6E22B5F6D53
+
+***************************************
+
+Exec >> .doc > .dll
+
+
+WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\request.docm
+
+http://documentseu.top/kdv/FzxkjAN7rH2wzjPOcJ9iIa81gr2-znNH9wfxw14Q/
+
+C:\Windows\splwow64.exe 12288
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\y3B5C.tmp.dll,DllRegisterServer
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\y3B5C.tmp.dll",DllRegisterServer
+
+C:\Windows\system32\WerFault.exe -u -p 988 -s 168
+
+
+c2'
+http://golinisye.top/
