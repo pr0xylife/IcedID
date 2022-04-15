@@ -7,8 +7,7 @@ IcedID | 15.04.2022 | Campaign 2493865931
 
 ***************************************
 
-Exec >> .doc > .dll
-
+Exec >>
 
 EXCEL.EXE /dde C:\Users\Admin\AppData\Local\Temp\Мобілізаційний список.xls
 
