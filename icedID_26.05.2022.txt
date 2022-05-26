@@ -1,0 +1,23 @@
+IcedID | 22.03.2022 | Campaign 3316325302
+
+***************************************
+
+.url https://storage.googleapis.com/qj3k1zaju1m0me.appspot.com/g/b/file/d/fileHi2WOyHemWFP.html#
+.url https://banytul.com/img/logo.jpg
+.doc 65051d59fe9211d46939864307f01240a45e1866427950a1f7494b239dc80255
+.dll 670790c8b4649865ef391bac63417c00ffbaa203c5df36d6c9720832b0949dcb
+
+***************************************
+
+Exec >> .doc > .dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe alomart.dll,PluginInit
+
+***************************************
+
+c2
+http://reapetzold.com/ | 64.227.182.2:80
+
+***************************************
