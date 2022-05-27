@@ -1,0 +1,26 @@
+IcedID | 27.05.2022 | Campaign 3333102921
+
+***************************************
+
+.url https://storage.googleapis.com/yj6fkzof1vjypc.appspot.com/dwld/file/1/s/fnDVCF4FNkwTL.html?h=758766987382843161
+.url https://vayodex.com/images/logo.jpg
+.doc adf8cb3421c726efbadff60e97a07f6df6de98818e0978382ec388e7d32a2128
+.dll 670790c8b4649865ef391bac63417c00ffbaa203c5df36d6c9720832b0949dcb
+
+***************************************
+
+Exec >> .doc > .dll
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe textins.dll,PluginInit
+
+***************************************
+
+c2's
+http://reapetzold.com
+https://ouldmakeithapp.top
+https://callbackhubs.com
+https://ganjicow.com
+
+***************************************
