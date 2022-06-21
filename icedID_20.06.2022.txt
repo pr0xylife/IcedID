@@ -1,0 +1,26 @@
+IcedID | 20.06.2022 | Campaign 3400213397
+
+***************************************
+
+.zip 62eecee432d4776e9f40976712b99ac9f6a5f87353231ef1a529d207ca0b1a9a - 950225
+.iso 592de17b1c5543c877f0a94fe0f6419f155e652a838fb24a978d0380e69a7845
+.lnk 3cca8d1b4cfe0ebcf105621700454d0285ef1b44dfed3e3abf70060bb62aa5b4
+.dll 381bc1e31d7798fe7027c7a881a885725c9c24081348a012fb210b4b9b28e2e5
+
+***************************************
+
+Exec >> .doc > .dll
+
+rundll32.exe mu7en.dll,RunObject
+
+***************************************
+
+c2's
+
+174.138.59.40:80 - coolnexoz.com
+193.239.84.214:443 - tekacuanm.com
+103.208.86.72:443 - cukliosario.com
+
+***************************************
+
+https://tria.ge/220620-vfegeafddn/behavioral1
