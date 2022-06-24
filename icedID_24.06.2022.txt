@@ -13,7 +13,7 @@ Exec >>
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
 
-rundll32.exe" sol3nia.dll,RunObject
+rundll32.exe sol3nia.dll,RunObject
 
 ***************************************
 
