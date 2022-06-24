@@ -1,0 +1,24 @@
+IcedID | 23.06.2022 | Campaign 3585208491
+
+***************************************
+
+.url https://storage.googleapis.com/rs86sgdl.appspot.com/o/9sy4VKu.htm
+.zip 6593092dd29831d80d5fff05c7807fc3f327b62340560f55df53d115656a0aad
+.iso d6023d743d4757a9f193fdc94bc404f96d7039d906cf2720d8f37eff167985e4
+.dll 00dcc4642d488643856259cd3c576d9e24045b48783fc21ebdccd5fb4de66f8c
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+rundll32.exe sol3nia.dll,RunObject
+
+***************************************
+
+c2's
+
+http://bredofenction.com/om
+
+***************************************
