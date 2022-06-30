@@ -1,0 +1,23 @@
+IcedID | 29.06.2022 | Campaign 3585208491
+
+***************************************
+
+.zip 571be67ca511625c1b4c17fbe1d795f8d6bf4726d324a6951cd074c113391609 pw 0629
+.iso 158d94fc21bc586678f67c0991bf7bb6e7855242d5cb89137f99cb369c0b1801
+.dll 8576e05949fb3682e93b4f9b899bf4724656c4758c6b8d90877326f5f4798dfe
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+"C:\Windows\System32\rundll32.exe" s4pesa.dll, #1
+
+***************************************
+
+c2's
+
+http://yankyhoni.com/
+
+***************************************
