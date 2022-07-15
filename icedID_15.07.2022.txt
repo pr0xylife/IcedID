@@ -1,0 +1,25 @@
+IcedID | 15.07.2022 | Campaign 294489237
+
+***************************************
+
+.zip f2a31283e6d9b143619c8d930368bffa3e9088b1cab596892f4eb7e9e3ee03a9 pw Office120722
+.iso d48a78e87387e31ab9f5c206b6623bc1c72761cbde513af6bd81a26c765add5d
+.dll 2179c46adb7afa277e596c45c4cc51b4be29bdf7032b5f794265c01eecb7712d
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\warrant-130722.32090.png.lnk
+
+cmd.exe" /c "start YYdDDfDX.png && start rundll32 bXkcIVdx.dll, #1"
+
+rundll32  bXkcIVdx.dll, #1
+
+***************************************
+
+c2's
+
+http://alldogsedag.com/
+
+***************************************
