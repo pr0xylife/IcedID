@@ -1,0 +1,31 @@
+IcedID | 19.07.2022 | Campaign 2745070743
+
+***************************************
+
+.zip ea91c8394cf803975609a87634da6f166a994e0289c99e5f6c2f2eb35108a09a
+.iso fac078655a3f20ac3d4f4119c0b6b1ad25b3fa4de49c7b30dac9f1fac7a47853
+.dll 77c3de1c2a5ced907159777ff648c2a1f3c4bdb8b6a9fbc9d06c76d8e6cb2c8d
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Unpaid_order-.lnk
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\would\worker.cmd"
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\would\worker.js
+
+C:\Windows\system32\PING.EXE
+
+ping  google.com
+
+***************************************
+
+c2's
+
+http://cootembrast.com/
+http://wronigrabs.com/news/
+http://nokainptisarda.com/news/
+
+***************************************
