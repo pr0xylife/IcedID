@@ -1,0 +1,24 @@
+IcedID | 20.07.2022 | Campaign 4182822218
+
+***************************************
+
+.iso e3507aa2e857c8d0bb4cb36c6fc81ac4527ff1a76b370bdfefe4ccc0f2e09a53
+.dll 77c3de1c2a5ced907159777ff648c2a1f3c4bdb8b6a9fbc9d06c76d8e6cb2c8d
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+cmd.exe /c start rundll32.exe b4ramo.dll,#1
+
+rundll32.exe  b4ramo.dll,#1
+
+***************************************
+
+c2's
+
+http://explorblins.com/
+
+***************************************
