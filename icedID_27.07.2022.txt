@@ -1,0 +1,25 @@
+IcedID | 27.07.2022 | Campaign 346476425
+
+***************************************
+
+.zip 3f3c968e423f661628f4da7545572474a8ce3f51e46a1988725b77dccc8d9e2f
+.iso 8711308e9a44a293023edf1421d0687d18f734575961869c8490389307ef4283
+.dll 89ab5dc5105643a68d23ca2cfe48e42e76b2ecd986754a549aac41c0bb70e32b
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+cmd.exe" /c start rundll32.exe nu3a4al.dll, PluginInit
+
+rundll32.exe  nu3a4al.dll, PluginInit
+
+***************************************
+
+c2's
+
+http://handsquestiona.com/
+
+***************************************
