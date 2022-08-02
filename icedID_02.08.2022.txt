@@ -22,5 +22,7 @@ RunDll32  la4ip.dll, PluginInit
 c2's
 
 http://keyseaysnice.com/
+http://getmeaninwurz.com/
+http://sipfierqaz.com/
 
 ***************************************
