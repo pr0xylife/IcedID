@@ -1,0 +1,27 @@
+IcedID | 03.08.2022 | Campaign 3311923693
+
+***************************************
+
+.zip 9d593bd3f856e8e9fe4b9517b8b5542068a5c37aba2d0f88f69bc3350b92d0d0
+.iso 64d002099ceefa7bcfc631c8eca3f5ffd650c7f758d11fbd94f4d0ef6e0f9c42
+.dll 6942bdc3fef603f86e7c33e427668c15ea38401bb7a0fec693ac6bc8d9156021
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\5439_pdf.lnk
+
+cmd /c C:\well\theseTheOurSayMan.bat
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\well\intoThanMeNoUse.js
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\well\hisTheseSheHimThen.dll,#1
+
+***************************************
+
+c2's
+
+http://getmeaninwurz.com/
+
+***************************************
