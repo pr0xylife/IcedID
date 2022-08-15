@@ -1,0 +1,32 @@
+IcedID | 15.08.2022 | Campaign 4082156504
+
+***************************************
+
+.iso 64d002099ceefa7bcfc631c8eca3f5ffd650c7f758d11fbd94f4d0ef6e0f9c42
+.dll 6942bdc3fef603f86e7c33e427668c15ea38401bb7a0fec693ac6bc8d9156021
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\then\tellTwoOrAllWhich.bat
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\then\thenFirstToAsThe.js
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\well\hisTheseSheHimThen.dll,#1
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\then\intoYouMeHereGive.dll,#1
+
+***************************************
+
+c2's
+
+http://driophizter.com/
+http://uytricmpreprom.com/news/
+http://plorinnoult.com/news/
+http://yotrakeoksa.com/news/
+http://cleanmagoza.com/news/
+
+***************************************
