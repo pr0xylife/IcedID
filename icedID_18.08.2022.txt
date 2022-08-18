@@ -1,0 +1,37 @@
+IcedID | 18.08.2022 | Campaign 4223211077
+
+***************************************
+
+.zip 01c14f491a773e6a8c6223997318631d8105533a282e6380d94706df5d620d7b
+.iso 0e1ce7b899417e82ec3888854cd4a46073c9b5fed1a6a893dbe5113fa004b738
+.dll f2b8c976c683e0e00377b393a817ff5aae6ead4751e984767a477c60045cf135
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents.lnk
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\one\oneHis.bat
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\one\whenYear.js
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\one\twoEven.dll,#1
+
+***************************************
+
+iso drop via:
+
+https://storage.googleapis.com/f50awc2m6bnj.appspot.com/w/vTGJbNc73XTd2A4.html?0=103542045342349123
+https://microark.org/r021/
+https://storage.googleapis.com/aefl1typu5ot.appspot.com/r/NaT1SBqnK1RV8qo.html
+https://heldosant.com/k309/
+
+***************************************
+
+c2's
+
+https://waterintoairi.com - downloader
+
+
+***************************************
