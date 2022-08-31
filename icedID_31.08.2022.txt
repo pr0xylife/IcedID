@@ -1,0 +1,39 @@
+IcedID | 31.08.2022 | Campaign 81003051
+
+***************************************
+
+url https://storage.googleapis.com/kilviullvr4b.appspot.com/r/lpKjyYucLw7gyyr.html
+dll https://moxisoma.com/r021/
+
+.zip e785dc7389084a775373d02a861bab1e75582570363cd6773ef2b986a0a1857a
+.iso 3d69b18dcdc9a34c8c8e637a5ab7baebbe59b3e213b07418c5d2a052eb6dd9b2
+.dll eaa1faa8724549a4462e3969655ba4ecbab18c890c991e6438dec164eba775b2
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\pup\caption.bat
+
+rundll32  pup\tempting.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://lionafuyesas.com/
+
+c2's
+
+plorinnoult.com
+cmbaindesureshure.com
+assigdedrigme.cyou
+empladeefly.wiki
+dromfiregreti.com
+autobrag.cloud
+ferdianbanga.com
+colorsuckbeh.com
+
+***************************************
