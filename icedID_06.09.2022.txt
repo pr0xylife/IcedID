@@ -1,0 +1,24 @@
+IcedID | 06.09.2022 | Campaign 	2211825656
+
+***************************************
+
+.zip 69c4f3bc5529244ac3b9af91a98e0f15f859c61e53162aa3c7341d5973e894a6
+.dll 6a1ba492984c630ad274b2943b37a697c35a9147f367ddd83b42a229d7e1c27a
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\ice\documents.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\ice\rap\enquire.bat
+
+rundll32  rap\reconsolidating.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://academfleedalas.com/
+
+***************************************
