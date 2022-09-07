@@ -1,0 +1,35 @@
+IcedID | 07.09.2022 | Campaign 	2211825656
+
+***************************************
+
+.url https://storage.googleapis[.]com/os5823jbm243.appspot.com/w/7iqcwLsT5JsdWRx.html?Ou8048373375441204 
+.url https://meeronixt[.]com/r021/
+.url https://banuscip[.]com/k309/
+.zip acf36594b396a9c3e71c9c5539def96300337737b2f7d82be8eb6ed64ff5298e
+.iso fb6f5d1c59303ccdfe3d34a628200eb35245683b5da82c0d50b96a687f427c74
+.dll 05b9b3805e5be9d68a08874e8c0ac73ea66c8a71ede76de9f5d6aacba4d8cc4e
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\biz\expound.bat"
+
+rundll32  biz\countervailing.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://academfleedalas.com/
+
+c2's
+
+iscasbase.cyou
+xqertansi.gay
+kbreedfin.fun
+daniasphalt.cyou
+
+***************************************
