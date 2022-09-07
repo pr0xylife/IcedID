@@ -15,7 +15,7 @@ Exec >>
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
 
-cmd /c C:\Users\Admin\AppData\Local\Temp\biz\expound.bat"
+cmd /c C:\Users\Admin\AppData\Local\Temp\biz\expound.bat
 
 rundll32  biz\countervailing.dll,#1
 
