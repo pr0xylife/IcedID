@@ -1,0 +1,29 @@
+IcedID | 19.09.2022 | Campaign 775636601
+
+***************************************
+
+.zip 2beb9490143e4535cf734fa0ec73f1fd38b1ad603f9feb32bd24de099f5c0a48
+.iso dfd97f479c11c0a64a61c3518d6024ed26ad8059a3f7e65919b9da2bd621de56
+.dll b7defbd7dc03e4369f8bc01cd963bf1610df75069865696ddddc75d6aa32bbdb
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\mal\demoscan-130722.31825.png.lnk
+
+cmd.exe /c "start Eh7rlR3b.png && start r^un^dl^l3^2 lxLoqZul.d^l^l, #1"
+
+rundll32  lxLoqZul.dll, #1
+
+***************************************
+
+c2 downloader
+
+http://aviadronazhed.com/
+
+c2's
+
+atommonga.art
+cermerchees.lol
+compacti.cyou
