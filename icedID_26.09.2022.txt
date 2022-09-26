@@ -1,0 +1,33 @@
+IcedID | 26.09.2022 | Campaign 2537954433 
+
+***************************************
+
+.zip 8bac7df54648d64d943b80706db9de86ec5787d7cf3b330e860972568d100c4e - pw x9671
+.iso 8bac7df54648d64d943b80706db9de86ec5787d7cf3b330e860972568d100c4e
+.dll 8031838f631518599dc64afe9b7b35b3be5b7a4cb2314ace259d4d250f354b03
+
+***************************************
+
+lnk content
+
+C:\spurning\undeservinglyUnpapered.js
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\spurning\undeservinglyUnpapered.js
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\spurning\flunkMuscular.cmd"
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\spurning\convolving.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://scainznorka.com/
+
+c2's
