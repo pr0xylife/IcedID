@@ -1,0 +1,30 @@
+IcedID | 10.10.2022 | Campaign 537138462
+
+***************************************
+
+.zip 2e6b92b81feab5c7f17816d9c7e888418f510176cea865ea3f93d3877b3e761b
+.dll ada1be7fcdf0040aa040a1100631619d535e3f68d47d1ee41df9d2e762d3d898
+
+***************************************
+
+lnk content
+
+C:\massawjunmil\combinehelping.bat
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Invoice_10-10_scan_303_document\Documents.lnk
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\Invoice_10-10_scan_303_document\massawjunmil\combinehelping.bat"
+
+xcopy  /s /i /e /h massawjunmil\freewheeling.dat C:\Users\Admin\AppData\Local\Temp\*  
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\freewheeling.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://hoftpaeers.com/
