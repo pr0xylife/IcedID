@@ -1,0 +1,29 @@
+IcedID | 19.10.2022 | Campaign 56237520
+
+***************************************
+
+.html 929e0beaffda812a0e313ec7226be375cf49058aeb2e9ada7797d73b79fe74c5b - magic wed file 10.19.html
+.iso 30d0fb00191dd9d8e0dbd4fbd6b6080d23783ee26e3b812ac9dcc4f33cd23da5
+.dll 1c68460278b0fce2e5e52a8921dde51dcae92e11826b8633b69d3b85a47309ab
+
+***************************************
+
+lnk content
+
+nauticals_unsobering_farci.cmd
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\warrant-oxonian_superinclusively.lnk
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\nauticals_unsobering_farci.cmd
+
+rundll32  unassuaging_hymeniophore_frabjously.db,#1
+
+***************************************
+
+c2 downloader
+
+http://tablearmestion.com/
