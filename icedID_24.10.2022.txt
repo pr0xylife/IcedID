@@ -1,0 +1,32 @@
+IcedID | 24.10.2022 | Campaign 56237520
+
+***************************************
+
+.html 6113119975ea83592ade57fdc1c1c64278d4fbfaf7f8bf2f29c2e5413ddd1738 - Unpaid_9999_Oct24.html
+.zip 6f165035cec129757b67a480e50aa21a74c5982af69e899082408725f5526f5e
+.iso e99e16d3627c0eaf42c546bafb992490ce8285f2786e78fbb1ad6a60e577342c
+.dll c1b098fbbdfc3cac133c601d0fcbae2b12e8cabfa0a11f5b3ea52c80cfedfeaa
+
+***************************************
+
+lnk content
+
+C:\seapieranwed\earthlyespouse.bat
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Data.lnk
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\seapieranwed\earthlyespouse.bat
+
+xcopy  /s /i /e /h seapieranwed\engarlanding.dat C:\Users\Admin\AppData\Local\Temp\*
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\seapieranwed\engarlanding.dll,#1
+
+***************************************
+
+c2 downloader
+
+http://nipsontaz.com/
