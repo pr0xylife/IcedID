@@ -1,0 +1,38 @@
+IcedID | 25.10.2022 | Campaign 106570377
+
+***************************************
+
+.html bf57c2fa6f6c71786b18a43c2e0979c305d21a7dba7b206d6eca29dbe3c49799 - redacted-10.25.2022.html
+.zip 568f1ebd9c616164eaaec8ad7807f0fc600a5101ea99b441f91d559e3b419afc
+.iso 53a160075cb485c534a04d0b610d06a09f06c0222925492a7c6a86689f139347
+.dll 2291b8f51d493e731642174b694b2dd5fe8cdb18f350b49a6a6beb84607a9ef6
+
+***************************************
+
+lnk content
+
+pachometer.cmd
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\documents-0196.lnk
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\pachometer.cmd
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy  C:\Windows\system32\rundll32.exe C:\Users\Admin\AppData\Local\Temp\lanknesses.exe /h /s /e
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy  templates677.png C:\Users\Admin\AppData\Local\Temp\21319.22881 /h /s /e
+
+lanknesses.exe  C:\Users\Admin\AppData\Local\Temp\21319.22881,#1
+
+***************************************
+
+c2 downloader
+
+http://seedhlumening.com/
