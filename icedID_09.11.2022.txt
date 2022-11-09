@@ -1,0 +1,38 @@
+IcedID | 11.09.2022 | Campaign 	1559130321
+
+***************************************
+
+.html 531baa9954d9b1c3ca78cebfad959b93dea09da8104dba315027520983669c6f - redacted.file.11.09.22.html
+.zip 1f7710c37eeef8dc1b352f3268f6e62e94514fad4ff826bcb28166490129dfc6
+.iso 0948395f8da4dd441bf62d935632a8d599a853db84771a12387e82672a2d3575
+.dll 16f10dfa9fa85bb5ea14bec89127f1a5dac0e6215ec7a3123c06b9c0badacae4
+
+***************************************
+
+lnk content
+
+pachometer.cmd
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\MYFILE.lnk
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\euphorbial.cmd
+
+cmd.exe /S /D /c" echo f"
+
+xcopy C:\Windows\system32\rundll32.exe C:\Users\Admin\AppData\Local\Temp\cordwood.exe /h /s /e
+
+cmd.exe /S /D /c" echo f"
+
+xcopy templates624.png C:\Users\Admin\AppData\Local\Temp\25853.24222 /h /s /e
+
+cordwood.exe C:\Users\Admin\AppData\Local\Temp\25853.24222,#1
+
+***************************************
+
+c2 downloader
+
+http://anisamnatyrel.com/
