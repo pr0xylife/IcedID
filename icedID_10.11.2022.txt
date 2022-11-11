@@ -1,0 +1,35 @@
+IcedID | 10.11.2022 | Campaign 426369791
+
+***************************************
+
+.html 7933c6d82685a75f0b2fc3f9fa4a5c2dc9406fb7d3ac0fb59308aab27415c0d4 - Document_2930#Nov10.html
+.zip 02ca1b0e4025a81f5fdb000591750d72e28551dba49aa26ea5f39d68d6597777
+.iso e6a2e75a6b2a3f2ac324ed063728d53dd0ff40e24e2abe11a725c41a54aabfe9
+.dll 64598e2bc1c0f58636825193c93405d555a5fcd87816ec22842125629d3136ad
+
+***************************************
+
+lnk content
+
+C:\belts\coleman.cmd
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\belts\coleman.cmd
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\belts\sinus.cmd
+
+replace  C:\Windows\\32\\l32.exe C:\Users\Admin\AppData\Local\Temp /A
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\belts\anyhow.dll,#1
+
+
+***************************************
+
+c2 downloader
+
+http://ahilacarstrupert.com/
