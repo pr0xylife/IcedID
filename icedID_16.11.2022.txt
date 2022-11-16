@@ -1,0 +1,35 @@
+IcedID | 16.11.2022 | Campaign 1626240797
+
+***************************************
+
+.zip 9569ac51e61f8ea7ce2b11790f255b66477370848d213950152f42dae512e220 - redacted,invoice,11.16.22.zip - pw = 161122
+.iso 32e9b7da3bab3f16f77470967c84409b2fc2f719688300ae7d83d53e90ad8a3a
+.dll 769cc60e51053a6fefc4e4e167692ef23afab2cd2d6f404ed4fb35b81b82813d
+
+***************************************
+
+Exec >>
+
+hh.exe document-01925.chm
+
+cmd.exe /c start /min mshta %CD%\document-01925.chm
+
+mshta C:\Users\Admin\AppData\Local\Temp\document-01925.chm
+
+cmd /c "C:\Users\Admin\AppData\Local\Temp\pretty.cmd
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy  C:\Windows\system32\rundll32.exe C:\Users\Admin\AppData\Local\Temp\set.exe /h /s /e
+
+cmd.exe  /S /D /c" echo f"
+
+xcopy  subtract_lost.png C:\Users\Admin\AppData\Local\Temp\get_morning.see_climb /h /s /e
+
+set.exe  C:\Users\Admin\AppData\Local\Temp\get_morning.see_climb,#1
+
+***************************************
+
+c2 downloader
+
+http://aurasantisflork.com/
