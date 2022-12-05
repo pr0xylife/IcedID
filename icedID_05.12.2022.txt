@@ -1,0 +1,34 @@
+IcedID | 05.12.2022 | Campaign 787509923
+
+***************************************
+
+.html f0c94f2705b1aea17f4a6c6d71c6ed725fe71bf66b03b0117060010859ca8a19 - redacted,file,12.05.22.html - pw = 0sgxZ5
+.zip 429037c8b2170b4da498bebcd0ecb17a87308971fa2d85bf5ac2d03633227093 
+.msi f677d2fffd8bce6f18a28b156c937e1e28a83bb2a29e2470e76d9314c2168678
+.dll c705008b6656feabe462ebb2363d6a259581cea574872cb1c6c440dbd23ad4fa
+
+***************************************
+
+Exec >>
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\current_yet.msi
+
+msiexec.exe /V
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 0EFC2A7ED70164135DBC74FE59CFE77E
+
+rundll32.exe C:\Windows\Installer\MSIF765.tmp,zzzzInvokeManagedCustomActionOutOfProc SfxCA_240580671 2 test.cs!Test.CustomActions.MyAction
+
+rundll32.exe "C:\Users\Admin\AppData\Local\Temp\tmpFB1E.dll",init
+
+vssvc.exe
+
+svchost.exe -k netsvcs -s DsmSvc
+
+***************************************
+
+c2 downloader
+
+http://kamintrewftor.com/
