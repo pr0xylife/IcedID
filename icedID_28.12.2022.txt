@@ -1,0 +1,23 @@
+IcedID | 28.12.2022 | Campaign 3247066813
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/shaped-aegis-371721.appspot.com/o/YPxRAfCC8Q%2FDocs_REF-1228%23109.zip?alt=media&token=927bc34c
+.pdf 3ca29fa051456d5a4cc26cbc414c898c0a56f9f9d1f38a50b54764b735bd6268
+.zip ce0e998debd44ebb0c5be26ba1c7adc656ad1d8fd066a97b951f1bbd3b7c0689 pw = RR17
+.iso ecdb5191814457d5ee4fa334e21d15b66b848d54c47c90ef2af82e40e58f71d9
+.dll 2248374c62f22dadb78d32e4d00329cc4ce09a5ed025128519b3f928b6b63777
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Inv_Copy_12-28.lnk
+
+rundll32.exe" \coyfig.dat,init   
+
+***************************************
+
+c2 downloader
+
+http://whothitheka.com/
