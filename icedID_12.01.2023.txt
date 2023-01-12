@@ -1,0 +1,27 @@
+IcedID | 12.01.2023 | Campaign 1387823457
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/cobalt-nomad-372419.appspot.com/o/OwSq1IMH1D%2FDocument_224_Copy_01-12.zip?alt=media&token=aa49349f
+.pdf 1d769af38bea969c00501ff64b51f4e4fd2de2bedc7785b3471b7d12765c1a7d
+.zip fbeffaaf34d13cd45e2e545172db2287fead4ed05c04c0e8da549a0869d2fa96
+.iso 9661ba9658bf85409cc414b8f62aaca490ac9f75aa4c2a146795945cf014b211
+.dll 65281fe83e22bde20fa56079bebaea6fb353d1036be8073924fdf64cd9194984
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\Document.lnk
+
+cmd.exe /c negconrodl\bogpacsipr.cmd A B C D E F G H I J K L M N O P K R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9
+
+xcopy /s /i /e /h negconrodl\outgoing.dat C:\Users\Admin\AppData\Local\Temp\*
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\outgoing.dat,init
+
+***************************************
+
+c2 downloader
+
+http://allertmnemonkik.com/
