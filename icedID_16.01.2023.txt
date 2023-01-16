@@ -1,0 +1,27 @@
+IcedID | 16.01.2023 | Campaign 3074491541
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/atlantean-field-372418.appspot.com/o/vnnaLMV3ii%2FDocument-2325.zip?alt=media&token=3eb21a6e-77b3-453c-a091-cae359354173
+.pdf c2e3097e2de547d70f1d4543b51fdb0c016a066646e7d51b74ca4f29c69f5a85
+.zip 778f1cbd036de33d6e6eb5b0face18c276732e365111bdfae447b30ccfebf8c5
+.iso f96779056b8390e4329b2012fc1bf7bc7b55aca84665ba41c9e3674169080413
+.dll c06805b6efd482c1a671ec60c1469e47772c8937ec0496f74e987276fa9020a5
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\REF_Scan_01-16.lnk
+
+cmd.exe /c raycatmady\vatphiefts.cmd A B C D E F G H I J K L M N O P Q R S d U V W X Y Z 0 1 2 3 4 5 6 7 8 9
+
+xcopy /s /i /e /h raycatmady\kickboxing.dat C:\Users\Admin\AppData\Local\Temp\*  
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\kickboxing.dat,init
+
+***************************************
+
+c2 downloader
+
+http://dgormiugatox.com/
