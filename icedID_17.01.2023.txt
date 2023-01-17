@@ -1,0 +1,27 @@
+IcedID | 17.01.2023 | Campaign 1354268219
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/robust-metrics-372417.appspot.com/o/Nf6xXtCw8X%2FScan_Docs_01-17%23278.zip?alt=media&token=3be89722
+.pdf 7f5864e2fafc9c7cadafbd0cb763c284f4fa15d0fcdd713984f094cb0dd0a15a - Invoice_Docs_01-17#41.pdf
+.zip b9a97302eb8e93f0e8caa9a24ebcf1334bdc21489a8373773452930791c648b9
+.iso 3c0381c16a13eae17abcd3398cb388dd1ed4bb5a0919563149124502e921c155
+.dll a85729bd8d5976b67662415b7d24bcc5c1a4230304a7b2ea4830fc6a76822fba
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\POV_Document_01-17.lnk
+
+cmd.exe /c cangemoptO\hitwitgalR.cmd A B C D E F G H I J K L M N O P Q R S O U V W X Y Z 0 1 2 3 4 5 6 7 8 9
+
+xcopy /s /i /e /h cangemoptO\trailblazing.dat C:\Users\Admin\AppData\Local\Temp\*  
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\trailblazing.dat,init
+
+***************************************
+
+c2 downloader
+
+http://dgormiugatox.com/
