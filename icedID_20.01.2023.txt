@@ -1,0 +1,28 @@
+IcedID | 20.01.2023 | Campaign 886885680
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/ferrous-plating-371721.appspot.com/o/GsU4jkla60%2FDocument_72.zip?alt=media&token=957653c3-f610-455d-9b30-a289c7a72dfc
+.pdf 3390b1d8560f565ed5e2a60df63ce24abe0ef3da514cf5645dd732f7e5cdbbae - redacted.document.01.20.pdf - pw = 
+.zip 6a904ca2f55d9dc7f8daf3b3c12a5957c3f6c1c857409ce6d6ba444498d97142
+.iso 7bf32f98de23917aba056065e36e2a71d2a57d09c9fa083f920a969b1e873112
+.dll ad174760985c5418b4a3c3a97cd8d7658e3bbb7030f72f2eff9ff97e57f200bd
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\REF_Document.lnk
+
+cmd.exe /c letetasody\sacsimsapI.cmd A B C D E F G H I J U L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9
+
+xcopy /s /i /e /h letetasody\pamphleteering.dat C:\Users\Admin\AppData\Local\Temp\*  
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\standing.dat,init
+
+***************************************
+
+c2 downloader
+
+http://umousteraton.com/
+
