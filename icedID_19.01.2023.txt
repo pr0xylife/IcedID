@@ -1,0 +1,27 @@
+IcedID | 19.01.2023 | Campaign 3108046779
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/planar-door-371720.appspot.com/o/5kimaItx2Y%2FPaid_Offer_54_Jan_19.zip?alt=media&token=9bbf1e4c
+.pdf 0fbe0024554ee9aee8d6c5814bf16e33d9a90425ea7230ac72ae7f4e2df73938 - Paid_Offer_268_Jan-19.pdf - pw = abc385
+.zip c2a3da4da7ca7224821ed55795529eba98668f4b692ad38c140bacb793f26201
+.iso 949e992a9a4056cd8bf69feda32d855b533b9d7b83d11468c6bbf47a9f1bbc78
+.dll 265c1857ac7c20432f36e3967511f1be0b84b1c52e4867889e367c0b5828a844
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\POV_Document_01-17.lnk
+
+cmd.exe /c aimsatchiK\nayairguyb.cmd A B C D b F G H I J K L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9
+
+xcopy  /s /i /e /h aimsatchiK\painstaking.dat C:\Users\Admin\AppData\Local\Temp\*  
+
+rundll32  C:\Users\Admin\AppData\Local\Temp\painstaking.dat,init
+
+***************************************
+
+c2 downloader
+
+http://klayerziluska.com/
