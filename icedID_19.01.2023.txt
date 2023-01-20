@@ -12,7 +12,7 @@ IcedID | 19.01.2023 | Campaign 3108046779
 
 Exec >>
 
-cmd /c C:\Users\Admin\AppData\Local\Temp\POV_Document_01-17.lnk
+cmd /c C:\Users\Admin\AppData\Local\Temp\Inv_Document.lnk
 
 cmd.exe /c aimsatchiK\nayairguyb.cmd A B C D b F G H I J K L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9
 
