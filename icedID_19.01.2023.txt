@@ -25,3 +25,4 @@ rundll32  C:\Users\Admin\AppData\Local\Temp\painstaking.dat,init
 c2 downloader
 
 http://klayerziluska.com/
+
