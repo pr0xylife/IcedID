@@ -3,7 +3,7 @@ IcedID | 20.01.2023 | Campaign 886885680
 ***************************************
 
 .url https://firebasestorage.googleapis.com/v0/b/ferrous-plating-371721.appspot.com/o/GsU4jkla60%2FDocument_72.zip?alt=media&token=957653c3-f610-455d-9b30-a289c7a72dfc
-.pdf 3390b1d8560f565ed5e2a60df63ce24abe0ef3da514cf5645dd732f7e5cdbbae - redacted.document.01.20.pdf - pw = 
+.pdf 3390b1d8560f565ed5e2a60df63ce24abe0ef3da514cf5645dd732f7e5cdbbae - redacted.document.01.20.pdf - pw = 54275
 .zip 6a904ca2f55d9dc7f8daf3b3c12a5957c3f6c1c857409ce6d6ba444498d97142
 .iso 7bf32f98de23917aba056065e36e2a71d2a57d09c9fa083f920a969b1e873112
 .dll ad174760985c5418b4a3c3a97cd8d7658e3bbb7030f72f2eff9ff97e57f200bd
