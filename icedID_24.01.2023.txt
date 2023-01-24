@@ -1,0 +1,26 @@
+IcedID | 24.01.2023 | Campaign 1691396905
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/august-copilot-371717.appspot.com/o/s8wYsa4WgI%2FScan_134_INV_01-24.zip?alt=media&token=4aa44ad5-c2bb-4a4a-a5c2-aa00061d20c1
+.pdf 2624668d5150f9d8c055e312a9ca1dcb4b74994afe9678efef182063d57b5ef7 - redacted_file_01.24.2023.pdf pw = 84925 
+.zip f5498dbfd2efefc4acc9ab9773d4fcbedeffa57e5a7d5d72398b86c7af93bd20
+.iso 3b35d3028c35181669e6a8993164633cd8ea81664f27b5b9ef8387c78c181a5e
+.dll 95ad74c1dff5293c49c955a4e77c17e6912c7b8d1fc8f5f4c6f05ac77a56a9ab
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\LUGGAGES.lnk
+
+cmd.exe /c PERLITIC\BURGOYNE.CMD reg Acetimeter T Bansalague z L t f
+
+rundll32 PERLITIC/PITCHPOT.DAT,#init
+
+***************************************
+
+c2 downloader
+
+http://plitspiritnox.com/
+
