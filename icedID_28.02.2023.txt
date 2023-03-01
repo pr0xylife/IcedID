@@ -1,0 +1,37 @@
+IcedID | 28.02.2023 | 
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/future-spot-377622.appspot.com/o/mOyb274BwL%2FContract_02_28_Scan%23318.zip?alt=media&token=70924c63-fc6e-418f-91f5-b18c31e2fda7
+cQtCXoljqM%2FContract_02_21_Copy%2332.zip?alt=media&token=0af57743-0613-4fa8-90c9-fd5045f227bc
+.pdf 645011d2ee07591468b09e552c6ea2f3522b9ab272f52782e84fc44d2b08cad8 Contract_Feb_28_Scan#160.pdf
+.zip 15c6af185e7f3dd9a9fde1a3d418b5f9a82b1fda13d9f7989cf9747ecfb65003 Contract_02_28_Scan#318.zip - pw = 5827
+.exe 43ba07032ca007ed25935ef123c2d408b2f4fd1f0e428b5d03b58b476da336da Contract_02_28_Scan#318.exe
+
+*************************************** 
+
+Code Signing Certificate
+
+Organisation:  DIGI CORP MEDIA LLC
+Issuer:  SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:  sha256WithRSAEncryption
+Valid from: 2022-10-31T16:01:24Z
+Valid to:   2023-10-31T15:58:50Z
+Serial number:  5143cf38d5fd26858830826632be9fda
+Intelligence:   4 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:   SHA256
+Thumbprint:  57a8aa854f3198f069bb34bc763b7773a8cfdafb562ee0ccf24a5067d45d5e3c
+Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+***************************************
+
+Exec >>
+
+C:\Users\Admin\AppData\Local\Temp\Contract_02_28_Scan#318.exe
+
+***************************************
+
+c2's
+
+http://hrowerknifi.]com/
+
