@@ -1,0 +1,38 @@
+IcedID | 02.03.2023 | 2611621973
+
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/tactile-carver-377705.appspot.com/o/4xZMTjhXB5%2FInv_03_02_Copy%23275.zip?alt=media&token=59298adb
+.pdf 78ae8f5302b095b964372b93c27874a23c0704f21bee6500ad350e9c4a748c4a redacted_file_03.02.pdf
+.zip a558298cf95983b5672af953e927c00d1adfc915dc0f70e153ebaf986e728abd Inv_03_02_Copy#275.zip - pw = 328
+.exe cab63e05a4a6f0b825acb077ba6a1bbb3657488c584882124a31c45dfb39515d Inv_03_02_Copy#275.exe
+
+*************************************** 
+
+Code Signing Certificate
+
+Organisation:  DIGI CORP MEDIA LLC
+Issuer:  SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:  sha256WithRSAEncryption
+Valid from: 2022-10-31T16:01:24Z
+Valid to:   2023-10-31T15:58:50Z
+Serial number:  5143cf38d5fd26858830826632be9fda
+Intelligence:   4 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:   SHA256
+Thumbprint:  57a8aa854f3198f069bb34bc763b7773a8cfdafb562ee0ccf24a5067d45d5e3c
+Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+***************************************
+
+Exec >>
+
+"C:\Users\Admin\AppData\Local\Temp\Inv_03_02_Copy#275.exe"
+
+***************************************
+
+c2's
+
+http://aproillionsgif.\com/
+
+
+
