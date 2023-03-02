@@ -17,7 +17,6 @@ Algorithm:  sha256WithRSAEncryption
 Valid from: 2022-10-31T16:01:24Z
 Valid to:   2023-10-31T15:58:50Z
 Serial number:  5143cf38d5fd26858830826632be9fda
-Intelligence:   4 malware samples on MalwareBazaar are signed with this code signing certificate
 Thumbprint Algorithm:   SHA256
 Thumbprint:  57a8aa854f3198f069bb34bc763b7773a8cfdafb562ee0ccf24a5067d45d5e3c
 Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
@@ -26,13 +25,44 @@ Source:  This information was brought to you by ReversingLabs A1000 Malware Anal
 
 Exec >>
 
-"C:\Users\Admin\AppData\Local\Temp\Inv_03_02_Copy#275.exe"
+C:\Users\Admin\AppData\Local\Temp\Inv_03_02_Copy#275.exe
 
 ***************************************
 
 c2's
 
-http://aproillionsgif.\com/
+http://aproillionsgif.com/
 
+***************************************
+
+.url https://firebasestorage.googleapis.com/v0/b/dulcet-bonito-377702.appspot.com/o/NjbqZi57b9%2FMar_02_Contract_19.zip?alt=media&token=26aff41a-e640-4741-9b66-c3821f31a7d0
+.pdf 56734da861a7d95f690e0172e717cc933513e37677c18c9277a2a261e55090ac Mar_02_Contract_12.pdf
+.zip dceb464d637f20eeaa69d31ae6adae27b12d73d0451c8cca00bbe36393faae11 Mar_02_Contract_19.zip
+.iso 5adf5de2bd216c2d88341118dc0498eb86f8a10842a476f103ba2b7b4f8f36e4 Mar_02_Contract_19.iso
+.exe 2fd37077734a03d479fa0781166142e9283689b066acbecddaf35f1b24f0280b preprograming.dat
+
+*************************************** 
+
+Exec >>
+
+Mar_02_Contract_19.iso
+
+cmd.exe /c "E:\03_02_Scan.cmd"
+
+xcopy  /s /i /e /h coodis\preprograming.dat C:\Users\Admin\AppData\Local\Temp\*  
+
+rundll32 C:\Users\Admin\AppData\Local\Temp\preprograming.dat,ghto
+
+***************************************
+
+c2's
+
+http://almileniomf.com/
+http://alishaskainz.com
+http://klindriverfor.com
+https://yelsopotre.com/news/
+https://qoipaboni.com/news/
+https://panamaplanert.com/news/
+https://kondarimno.com/news/"
 
 
