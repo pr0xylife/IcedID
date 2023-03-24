@@ -1,0 +1,36 @@
+IcedID | 24.03.2023 | 1883783121
+
+***************************************
+
+.url http://173.44.141.213/lndex.php
+.rul https://firebasestorage.googleapis.com/v0/b/synthetic-pipe-377723.appspot.com/o/ZUMAPQVgxe%2FDocs_Unpaid_%23121.zip?alt=media&token=f35d7ca6-fa32-49af-905f-b460e1b9da68
+.pdf 83afb9bde467bca436aa216d186cb9bbb7a40ce87fcbe013db74f89a097fa29c Doc_Unpaid_03_24_#849.pdf
+.zip 55d76b580ae98c5589b1ff9a643cc8cedcaa3bb5405c2808caf4ba5506f53e23 Docs_Unpaid_#367.zip - pw 749
+.exe 1e2aaed890f3a5e5657d6806bcf6756bbdef9baeca203330ad862dcf47ddf885 Docs_Unpaid_#367.exe
+
+*************************************** 
+
+Code Signing Certificate
+
+Organisation:  1105 SOFTWARE LLC
+Issuer:  SSL.com EV Code Signing Intermediate CA RSA R3
+Algorithm:  sha256WithRSAEncryption
+Valid from: 2023-03-17T13:56:48Z
+Valid to:   2024-03-16T13:56:48Z
+Serial number:  5c9f5f96726a6e6fc3b8bb153ac82af2
+Intelligence:   3 malware samples on MalwareBazaar are signed with this code signing certificate
+Thumbprint Algorithm:   SHA256
+Thumbprint:  285925b7c7c692f8d71d980dcf2ddb4c208a0f7b826ead34db402755d1a0f6de
+Source:  This information was brought to you by ReversingLabs A1000 Malware Analysis Platform
+
+***************************************
+
+Exec >>
+
+C:\Users\Admin\AppData\Local\Temp\Docs_Unpaid_#367.exe
+
+***************************************
+
+c2's
+
+http://liguspotforsit.com/
