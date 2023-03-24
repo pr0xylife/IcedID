@@ -3,7 +3,7 @@ IcedID | 24.03.2023 | 1883783121
 ***************************************
 
 .url http://173.44.141.213/lndex.php
-.rul https://firebasestorage.googleapis.com/v0/b/synthetic-pipe-377723.appspot.com/o/ZUMAPQVgxe%2FDocs_Unpaid_%23121.zip?alt=media&token=f35d7ca6-fa32-49af-905f-b460e1b9da68
+.url https://firebasestorage.googleapis.com/v0/b/synthetic-pipe-377723.appspot.com/o/ZUMAPQVgxe%2FDocs_Unpaid_%23121.zip?alt=media&token=f35d7ca6-fa32-49af-905f-b460e1b9da68
 .pdf 83afb9bde467bca436aa216d186cb9bbb7a40ce87fcbe013db74f89a097fa29c Doc_Unpaid_03_24_#849.pdf
 .zip 55d76b580ae98c5589b1ff9a643cc8cedcaa3bb5405c2808caf4ba5506f53e23 Docs_Unpaid_#367.zip - pw 749
 .exe 1e2aaed890f3a5e5657d6806bcf6756bbdef9baeca203330ad862dcf47ddf885 Docs_Unpaid_#367.exe
