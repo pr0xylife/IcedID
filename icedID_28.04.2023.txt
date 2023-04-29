@@ -1,0 +1,74 @@
+IcedID | 28.04.2023 | Campaign 3887211302 
+
+***************************************
+
+.html 9d228252fd19c92d22e11c0e3236015af4326903cf6fd015b72622a598b86cff
+.js 77e3de59fc2635e481327200cfb3b9dcdf0e5e199d3357bb724e10592a399858
+.one 4cdab0573e8b094fe8937a00c833cee67b8ccd9dbb5ae706624e5c12bdb7ae21
+.vbs 61e30e5027e36f945125634a1c363d2245404ec2d94071007fca55976dd6c2b6
+.dll 27483870f4df637c7532e41c61e2ee1b6734b28bf511855b68c61abad031c8c8
+
+***************************************
+
+Exec >>
+
+ONENOTE.EXE C:\Users\Admin\AppData\Local\Temp\RussvetLLC_Invoice#99880_GoogleSafe#Attach77452254_a1-.one
+
+WScript.exe C:\Users\Admin\AppData\Local\Temp\OneNote\16.0\Exported\{F1EFE00E-6875-47FE-AB0D-37F560A46605}\NT\0\c0l.vbs" 
+
+WScript.exe C:\Users\Admin\AppData\Local\Temp\rad71F918BCDdar.vbs
+
+wscript.exe" /e:vbscript C:\Users\Admin\AppData\Local\Temp\rad2D0B8E289dar.html
+
+rundll32.exe" C:\Users\Admin\AppData\Local\Temp\rad572A7.tmp.html,#1
+
+cmd.exe /C rundll32.exe C:\Users\Admin\AppData\Local\Admin\efekactk.dll,#1
+
+rundll32.exe  C:\Users\Admin\AppData\Local\Admin\efekactk.dll,#1
+
+cmd.exe /c chcp >&2
+
+chcp  
+
+WMIC /Node:localhost /Namespace:\\root\SecurityCenter2 Path AntiVirusProduct Get * /Format:List
+
+ipconfig /all
+
+systeminfo
+
+net config workstation
+
+net1 config workstation
+
+nltest /domain_trusts
+
+nltest /domain_trusts /all_trusts
+
+net view /all /domain
+
+net view /all
+
+net group "Domain Admins" /domain
+
+net1 group "Domain Admins" /domain
+
+***************************************
+
+Remote .js and .dll
+
+https://acln.org/crown20.js
+https://fdorepolass.com/
+
+***************************************
+
+c2's
+
+https://alomegodarks.com/news/1/255/0
+https://alomegodarks.com/news/18/255/0
+https://alomegodarks.com/news4/2/1
+https://alomegodarks.com/news/4/1/1
+https://alomegodarks.com/news/4/3/1
+https://miolicelis.com
+https://aeloderton.com
+
+***************************************
