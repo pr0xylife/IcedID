@@ -60,10 +60,7 @@ c2 downloader
 
 https://modalefastnow.com/
 
-https://jerryposter.com/news/1/255/0
-https://jerryposter.com/news/18/255/0
-https://jerryposter.com/news/4/0/0
-https://jerryposter.com/sqlite64.dll
+***************************************
 
 c2's
 
@@ -72,5 +69,12 @@ jerryposter.com
 jkbarmossen.com
 evinakortu.com
 hofsaalos.com
+
+https://jerryposter.com/news/1/255/0
+https://jerryposter.com/news/18/255/0
+https://jerryposter.com/news/4/0/0
+https://jerryposter.com/sqlite64.dll
+https://skrechelres.com/news/1/255/0
+https://skrechelres.com/news/18/255/0
 
 ***************************************
