@@ -1,7 +1,8 @@
-IcedID | 16.10.2023 | Campaign 1180344712
+IcedID | 16.10.2023 | TA577 | Campaign 1180344712
 
 ***************************************
 
+.url 
 .zip 1f0422c7c9b37bdde2f5404eb72d22fc97672f85bad6fcdff29b052598f39337 
 .js 67fd74add9de8de8b4006ee023cd9afe78c913cfac176bf9664de8a90fc1ac4f
 .exe 82a01607ebdcaa73b9ff201ccb76780ad8de4a99dd3df026dcb71b0f007456ed
