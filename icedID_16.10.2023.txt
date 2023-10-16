@@ -23,8 +23,6 @@ RUNdLL32  C:\Users\Admin\AppData\Local\Temp\wO.log scab /k haval462
 
 ***************************************
 
-.zip distro
-
 .dll distro
 
 http://89.147.111.46/gWUA/amalg
