@@ -44,4 +44,71 @@ https://joekairbos.com/news/
 https://drignyaffk.com/news/
 https://lazirusairnaf.com/news/
 
+Cobalt Strike beacon
+
+http://joekairbos.com/files/shellcode_717e2c81efb8ba61dde908c9c7b7bdc7.bin
+
+***************************************
+
+File: shellcode_717e2c81efb8ba61dde908c9c7b7bdc7.bin
+Config found: xorkey b'.' 0x00000000 0x00007be0
+0x0001 payload type                     0x0001 0x0002 1 windows-beacon_dns-reverse_http
+0x0002 port                             0x0001 0x0002 53
+0x0003 sleeptime                        0x0002 0x0004 5000
+0x0004 maxgetsize                       0x0002 0x0004 2798028
+0x0005 jitter                           0x0001 0x0002 45
+0x0007 publickey                        0x0003 0x0100 30819f300d06092a864886f70d010101050003818d003081890281810085fdc458140900d42515048fee1a26b8ffc73af8b2337d13b60070de64ed5d1c4b5052f152df260b08f9fd558084b7c45765dbff8440e2ac27871348f308507bf52d367197351879bbcf0d3ab449356774f00de5adacc86030cc321d0c3801a37a06a6ce7199a001a859c5b1745a861befc5d7735b91c0a220524e1569e0df03020301000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+0x0008 server,get-uri                   0x0003 0x0100 'dns.building4business.net,/dev/coke/CQHL5IYQF'
+0x0043                                  0x0001 0x0002 0
+0x0044                                  0x0002 0x0004 4294967295
+0x0045                                  0x0002 0x0004 4294967295
+0x0046                                  0x0002 0x0004 4294967295
+0x000e SpawnTo                          0x0003 0x0010 '^êDe\x0e\x8ck\tÂ\x83\x9bÒûg;a'
+0x001d spawnto_x86                      0x0003 0x0040 '%windir%\\syswow64\\w32tm.exe'
+0x001e spawnto_x64                      0x0003 0x0040 '%windir%\\sysnative\\systray.exe'
+0x001f CryptoScheme                     0x0001 0x0002 0
+0x001a get-verb                         0x0003 0x0010 'GET'
+0x001b post-verb                        0x0003 0x0010 'POST'
+0x001c HttpPostChunk                    0x0002 0x0004 0
+0x0025 license-id                       0x0002 0x0004 587247372
+0x0024 deprecated                       0x0003 0x0020 '3Hh1YX4vT3i5C7L2sn7K4Q=='
+0x0026 bStageCleanup                    0x0001 0x0002 1
+0x0027 bCFGCaution                      0x0001 0x0002 0
+0x0047                                  0x0002 0x0004 0
+0x0048                                  0x0002 0x0004 0
+0x0049                                  0x0002 0x0004 0
+0x0006 maxdns                           0x0001 0x0002 247
+0x0013 DNS_Idle                         0x0002 0x0004 1755069404 104.156.59.220
+0x0014 DNS_Sleep                        0x0002 0x0004 0
+0x003c                                  0x0003 0x0021 'ridoj4.'
+0x003d                                  0x0003 0x0021 '4f.'
+0x003e                                  0x0003 0x0021 '8yvb.'
+0x003f                                  0x0003 0x0021 'lnx.'
+0x0040                                  0x0003 0x0021 'hme.'
+0x0041                                  0x0003 0x0021 'hbzpj.'
+0x0042                                  0x0003 0x000f (NULL ...)
+0x0036 HostHeader                       0x0003 0x0080 (NULL ...)
+0x0032 UsesCookies                      0x0001 0x0002 1
+0x0023 proxy_type                       0x0001 0x0002 2 IE settings
+0x003a                                  0x0003 0x0080 '\x00\x10S¨\x81\x90kq´Ü¾ºçË'
+0x0039                                  0x0003 0x0080 '\x00\x1eY\x84¹\x86÷áßÃ\\æ\x85Ìy°Qb\x9d\x86í§ÊPµ¸y\x97'
+0x0037                                  0x0001 0x0002 0
+0x0028 killdate                         0x0002 0x0004 0
+0x0029 textSectionEnd                   0x0002 0x0004 1
+0x002a ObfuscateSectionsInfo            0x0003 0x0028 '\x00\x10\x00\x00E\x87\x02\x00\x00\x90\x02\x00ï,\x03\x00\x000\x03\x000 \x04\x00\x000\x04\x004P\x04'
+0x002b process-inject-start-rwx         0x0001 0x0002 4 PAGE_READWRITE
+0x002c process-inject-use-rwx           0x0001 0x0002 64 PAGE_EXECUTE_READWRITE
+0x002d process-inject-min_alloc         0x0002 0x0004 6477
+0x002e process-inject-transform-x86     0x0003 0x0100 '\x00\x00\x00Yf\x0f\x1fD\x00\x00f\x0f\x1fD\x00\x00PX\x0f\x1f\x00f\x0f\x1fD\x00\x00f\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1fD\x00\x00\x0f\x1f\x00\x90\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1fD\x00\x00\x0f\x1f\x80\x00\x00\x00\x00\x90\x0f\x1fD\x00\x00\x0f\x1fD\x00\x00f\x90\x0f\x1fD\x00\x00PX\x0f\x1f\x84\x00\x00\x00\x00\x00\x00\x00\x00_\x0f\x1fD\x00\x00PX\x0f\x1fD\x00\x00f\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1f\x80\x00\x00\x00\x00\x0f\x1f@\x00\x90\x90\x0f\x1f@\x00f\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1f\x80\x00\x00\x00\x00\x0f\x1fD\x00\x00f\x90\x90f\x0f\x1f\x84\x00\x00\x00\x00\x00f\x90f\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1fD'
+0x002f process-inject-transform-x64     0x0003 0x0100 '\x00\x00\x00@\x0f\x1f\x84\x00\x00\x00\x00\x00PXf\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1fD\x00\x00\x0f\x1fD\x00\x00PXf\x0f\x1fD\x00\x00f\x0f\x1fD\x00\x00\x90f\x0f\x1f\x84\x00\x00\x00\x00\x00f\x0f\x1f\x84\x00\x00\x00\x00\x00PX\x00\x00\x00Rf\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1f@\x00\x0f\x1f\x00\x0f\x1f\x00\x0f\x1f\x84\x00\x00\x00\x00\x00\x90f\x90\x0f\x1f\x00f\x90\x0f\x1fD\x00\x00\x0f\x1f\x84\x00\x00\x00\x00\x00f\x0f\x1fD\x00\x00\x0f\x1fD\x00\x00\x0f\x1f\x00\x0f\x1f\x84\x00\x00\x00\x00\x00\x0f\x1f\x00\x0f\x1f\x80\x00\x00\x00\x00PX'
+0x0035 process-inject-stub              0x0003 0x0010 'nëæäsÓP23ªVòÎQõ±'
+0x0033 process-inject-execute           0x0003 0x0080 '\x06\x054\x00\x00\x00\x06ntdll\x00\x00\x00\x00\x13RtlUserThreadStart\x00\x01\x08\x03\x04'
+0x0034 process-inject-allocation-method 0x0001 0x0002 0
+0x0030                                  0x0001 0x0002 1
+0x0010 killdate_year                    0x0001 0x0002 0
+0x004a                                  0x0003 0x0020 'A:\x04\x82sÓP*Uæ\x17\x9c\xa0\x1c¾Á\x01\x89\x94¨\x05\x972j\x00Ã\x15\x83¨6È\x8c'
+0x0011 killdate_month                   0x0002 0x0004 0
+0x0000
+Guessing Cobalt Strike version: 4.1+ (max 0x004a)
+
 ***************************************
