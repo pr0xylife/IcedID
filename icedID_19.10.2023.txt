@@ -27,8 +27,9 @@ RunDll32  C:\Users\Admin\AppData\Local\Temp\SNq.dll scab /k feromon698
 
 .dll distro
 
-http://89.147.111.46/gWUA/amalg
-http://198.98.61.173/Ftn/level
+http://88.99.82.67/uctf/volip
+http://23.88.37.159/c1t/Outsu
+http://128.140.120.227/8qe/Autol
 
 ***************************************
 
