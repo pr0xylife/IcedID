@@ -1,0 +1,28 @@
+IcedID | 27.10.2023 | Campaign | TA577 | Olimp
+
+***************************************
+
+.url https://gonow.cl/ud/?lKFtoBWUlVJthcZzqaiXLMizAXcj
+.img 540e18f2bbb672a1ba70edf17fa313a373cabc810f63059edca82093e349fcac
+.lnk 98d37eff504a7adb864131ea4a042aaf4d79c4356960a8ab2fa656cc59aec014
+.exe e99f3517a36a9f7a55335699cfb4d84d08b042d47146119156f7f3bab580b4d7
+
+***************************************
+
+Exec >>
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\drop\UPDATE-HSYEYDBB.html.lnk
+
+rundll32.exe version1.dll, scab
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_c399cf5.dll, scab
+
+
+***************************************
+
+c2's
+
+mazdakrichest.com
+riverhasus.com
+
+***************************************
