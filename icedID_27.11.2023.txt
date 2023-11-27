@@ -22,7 +22,7 @@ rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_c399cf5.dll, sc
 
 c2's
 
-mazdakrichest.com
-riverhasus.com
+https://riverhasus.com/live/
+https://mazdakrichest.com/live/
 
 ***************************************
