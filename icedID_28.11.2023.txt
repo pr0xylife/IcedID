@@ -1,0 +1,34 @@
+IcedID | 28.10.2023 | Campaign | TA577 | Olimp
+
+***************************************
+
+.url https://gonow.cl/ud/?lKFtoBWUlVJthcZzqaiXLMizAXcj
+.zip 20258d38e142bb349a5f5446f0152fcc3a9402d36094f3e59e69f64496636dad
+.img 90a39276d80268d85cd067a491abb2271177dfa329089c9759d0cc4595f6d05a
+.exe 6aabd487332f68b330519fb20dbdf73d36559d7931b5fc9d5c536ce52b423c0f
+
+.zip 8ace5462fafb950876b4315c580eb13bf1018a1815abf07c6efda8434943cc54
+.img a5124f400e74fcbc68fa4f6ce7af9379bdb7a3bdcc54da85f4700ac6ef499f94
+.exe 221e906b73db3dd177f65eba9310efeb2921f512d1eb67d516d8036b4193344e
+
+***************************************
+
+Exec >>
+
+cmd /c 188_JDHSY373DE34DE.iso
+
+cmd /c C:\Users\Admin\AppData\Local\Temp\JDHSY373DE34DE.lnk
+
+rundll32.exe version1.dll, nail
+
+rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_b6eb3a46.dll, nail 
+
+***************************************
+
+c2's
+
+https://aprettopizza.world/live/
+https://peermangoz.me/live/
+https://nimeklroboti.info/live/
+
+***************************************
